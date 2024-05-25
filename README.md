@@ -6,4 +6,4 @@
 
 <h2> Ekran Görüntüsü</h2>
 
-! [](chrome-capture-2024-5-25.gif)
+![](chrome-capture-2024-5-25.gif)
